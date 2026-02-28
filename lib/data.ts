@@ -155,11 +155,7 @@ export const projects = [
         text: "El proceso del fashion film comenzó con una curaduría visual, seleccionando a tres modelos cuyo perfil representara la esencia de los íconos más influyentes de la época: Boy George, Adam Ant y Cyndi Lauper. Esta elección fue un ejercicio de dirección de arte con el objetivo de encarnar las facetas de este movimiento, desde la androginia, el uso teatral del maquillaje, hasta el historicismo guerrero y el espíritu ecléctico de estos referentes culturales.<br><br>A partir de esta base, se asignaron tres estilismos diferenciados que capturaran el rigor histórico de la época mediante una metodología de upcycling y curaduría ética. La construcción de los atuendos se llevó a cabo utilizando piezas de segunda mano y prendas preexistentes, las cuales fueron intervenidas para resignificar su uso original y adaptarlas a los años 80. Este enfoque no solo garantizó la fidelidad estética necesaria para la inmersión en el pasado, sino que también reafirmó el compromiso del proyecto con la moda circular, demostrando que la teatralidad del movimiento New Romantic puede reinterpretarse bajo una visión contemporánea y responsable.",
         aspect: "square"
       },
-      {
-  type: "video",
-  src: "",
-
-}
+     
     ]
   },
 ];
