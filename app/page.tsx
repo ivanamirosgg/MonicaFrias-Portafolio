@@ -33,7 +33,7 @@ export default function Home() {
                 <span>M</span>
                 
                 <span className="inline-flex flex-col items-center">
-                  Óo
+                  Ó
                   <span className="w-[0.12em] h-[0.12em] rounded-full bg-[#57595B] mt-[0.15em]"></span>
                 </span>
                 
