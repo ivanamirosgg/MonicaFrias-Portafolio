@@ -67,7 +67,7 @@ export default function Navbar() {
                     F
                     <span className="w-[0.15em] h-[0.15em] rounded-full bg-white mt-[0.1em]"></span>
                 </span>
-                <span>Rr</span>
+                <span>R</span>
                 <span>Í</span>
                 <span>A</span>
                 <span>S</span>
